@@ -6,4 +6,4 @@
 
 [This link](http://www.lowes.com)
 
-![alt text](./GPS_1.png)
+![picture](./GPS_1.png)
