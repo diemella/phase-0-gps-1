@@ -2,8 +2,9 @@
 >Four score and seven years ago
 *bullet one*
 
-<pre><code> code block </code></pre>
+
+```<form><h1>this is a form</h1></form>```
 
 [This link](http://www.lowes.com)
 
-![alt text](./GPS_1.png)
+![screen shot](https://raw.githubusercontent.com/diemella/phase-0-gps-1/master/GPS_1.png)
